@@ -1,0 +1,7 @@
+ <!DOCTYPE RCC>
+ <RCC version="1.0">
+ <qresource>
+ <file>Staging/StagingLicense.txt</file>
+ <file>Staging/StagingDescription.txt</file>
+ </qresource>
+ </RCC>
